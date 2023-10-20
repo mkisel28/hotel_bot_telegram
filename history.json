@@ -1,0 +1,134 @@
+{
+    "1689568914": [
+        {
+            "city_id": "3000",
+            "city_name": "Рига, Латвия",
+            "check_in_date": "2023-10-12",
+            "check_out_date": "2023-10-20",
+            "search_type": "guest_rating"
+        },
+        {
+            "city_id": "2872",
+            "city_name": "Прага, Чехия",
+            "check_in_date": "2023-10-19",
+            "check_out_date": "2023-10-27",
+            "search_type": "lowprice"
+        },
+        {
+            "city_id": "6200422",
+            "city_name": null,
+            "check_in_date": "2023-10-06",
+            "check_out_date": "2023-10-20",
+            "search_type": "lowprice"
+        },
+        {
+            "city_id": "553248621563233781",
+            "city_name": "Спортивно-развлекательный комплекс «Минск-Арена», Минск, Беларусь",
+            "check_in_date": "2023-10-25",
+            "check_out_date": "2023-10-28",
+            "search_type": "lowprice"
+        },
+        {
+            "city_id": "6405",
+            "city_name": "Брест, Брестская область, Беларусь",
+            "check_in_date": "2023-10-27",
+            "check_out_date": "2023-10-29",
+            "search_type": "lowprice"
+        },
+        {
+            "city_id": "553248634285151548",
+            "city_name": "Аквапарк «Лебяжий», Минск, Беларусь",
+            "check_in_date": "2023-10-22",
+            "check_out_date": "2023-10-28",
+            "search_type": "lowprice"
+        },
+        {
+            "city_id": "2427",
+            "city_name": "Минск, Беларусь",
+            "check_in_date": "2023-10-19",
+            "check_out_date": "2023-12-22",
+            "search_type": "lowprice"
+        },
+        {
+            "city_id": "2427",
+            "city_name": "Минск, Беларусь",
+            "check_in_date": "2023-10-05",
+            "check_out_date": "2023-10-27",
+            "search_type": "lowprice"
+        },
+        {
+            "city_id": "2427",
+            "city_name": "Минск, Беларусь",
+            "check_in_date": "2023-10-29",
+            "check_out_date": "2024-02-24",
+            "search_type": "lowprice"
+        },
+        {
+            "city_id": "2427",
+            "city_name": "Минск, Беларусь",
+            "check_in_date": "2023-10-05",
+            "check_out_date": "2023-10-28",
+            "search_type": "lowprice"
+        },
+        {
+            "city_id": "5329741",
+            "city_name": "Минск, Беларусь (MSQ-Минск, международный)",
+            "check_in_date": "2023-10-26",
+            "check_out_date": "2023-10-29",
+            "search_type": "lowprice"
+        }
+    ],
+    "590412447": [
+        {
+            "city_id": "502080",
+            "city_name": "Таймс-сквер, Нью-Йорк, Нью-Йорк, США",
+            "check_in_date": "2024-03-22",
+            "check_out_date": "2023-12-06",
+            "search_type": "lowprice"
+        },
+        {
+            "city_id": "2265",
+            "city_name": "Мехико Сити, Мексика",
+            "check_in_date": "2023-09-04",
+            "check_out_date": "2023-09-10",
+            "search_type": "bestdeal"
+        },
+        {
+            "city_id": "177",
+            "city_name": "Танзания",
+            "check_in_date": "2024-01-01",
+            "check_out_date": "2024-01-11",
+            "search_type": "guest_rating"
+        },
+        {
+            "city_id": "6405",
+            "city_name": "Брест, Брестская область, Беларусь",
+            "check_in_date": "2023-10-02",
+            "check_out_date": "2023-10-22",
+            "search_type": "lowprice"
+        },
+        {
+            "city_id": "6405",
+            "city_name": "Брест, Брестская область, Беларусь",
+            "check_in_date": "2023-10-01",
+            "check_out_date": "2023-10-28",
+            "search_type": "bestdeal"
+        },
+        {
+            "city_id": "6405",
+            "city_name": "Брест, Брестская область, Беларусь",
+            "check_in_date": "2023-10-26",
+            "check_out_date": "2023-10-31",
+            "search_type": "guest_rating"
+        }
+    ],
+    "718118144": [
+        {
+            "city_id": "6340727",
+            "city_name": "Пенистон, Шеффилд, Англия, Великобритания",
+            "check_in_date": "2023-10-13",
+            "check_out_date": "2023-10-31",
+            "search_type": "lowprice"
+        }
+    ]
+}
